@@ -1,52 +1,5 @@
 
 
-Sliph
-	Sliph
-		2 Player
-		A Long Time From Now
-		Atropos
-		Feeling the Spell
-		Fragile in Flight
-		From Above
-		Orions, and Triangles, and Squares
-		Repair Her
-Burial
-	Untrue
-		Archangel
-		Dog Shelter
-		Endorphin
-		Etched Headplate
-		Ghost Hardware
-		Homeless
-		In McDonalds
-		Near Dark
-		Raver
-		Shell Of Light
-		[untitled]
-	Burial
-		Ashtray Wasp
-		Broken Home
-		Distant Lights
-		Distant Lights (Kode9 Rmx)
-		Ego
-		Exit Woundz
-		Forgive
-		Ghost Hardware
-		Gutted
-		Gutted
-		Kindred
-		Loner
-		Mirror
-		Moth
-		NYC
-		Night Bus
-		Pirates
-		Pirates
-		Prayer
-		Shutta
-Solgryn
-	I Wanna be the Boshy Soundtrack
-		46 - Secret Boss - Cheetahmen.mp3
 
 	
 		01 - Redefine Me.mp3
@@ -94,6 +47,57 @@ Amon Tobin
 		The Nasty
 		Wires & Snakes
 		Yasawas
+Archie & Fareoh
+	HJ-ENT
+		Feathers (Original Mix)
+Be'lakor
+	Vessels
+		A Thread Dissolves
+		An Ember's Arc
+		Grasping Light
+		Luma
+		Roots to Sever
+		The Smoke of Many Fires
+		Whelm
+		Withering Strands
+Burial
+	Burial
+		Ashtray Wasp
+		Broken Home
+		Distant Lights
+		Distant Lights (Kode9 Rmx)
+		Ego
+		Exit Woundz
+		Forgive
+		Ghost Hardware
+		Gutted
+		Gutted
+		Kindred
+		Loner
+		Mirror
+		Moth
+		NYC
+		Night Bus
+		Pirates
+		Pirates
+		Prayer
+		Shutta
+	Untrue
+		Archangel
+		Dog Shelter
+		Endorphin
+		Etched Headplate
+		Ghost Hardware
+		Homeless
+		In McDonalds
+		Near Dark
+		Raver
+		Shell Of Light
+		[untitled]
+Genghis Tron
+	Genghis Tron
+		Arms (Dylan Reece Remix)
+		Warm Woods
 Gojira
 	From Mars To Sirius
 		Backbone
@@ -121,40 +125,70 @@ Gojira
 		Vacuity
 		Wolf Down the Earth
 		Yama's Messengers
-Noisia
-	Noisia
-		Noisia - Artist Introduction
-		Noisia - Recorded Intro
-		Noisia - Track 1
-		Noisia - Track 10
-		Noisia - Track 11
-		Noisia - Track 2
-		Noisia - Track 3
-		Noisia - Track 4
-		Noisia - Track 5
-		Noisia - Track 6
-		Noisia - Track 7
-		Noisia - Track 8
-		Noisia - Track 9
-Spor
-	Spor
-		A1 Dirge (Apex, Spor, Ewun & Evol Intent)
-		B1 Resolute
-		Blue Girl
-		Breath In Scream Out
-		C1 Levitate (Spor, Ewun & Evol Intent)
-		C1 Valentine
-		Calyx & Teebee - Make Your Choice (Spor Remix)
-		D1 As Dust Falls
-		D1 Dying Of The Light (Spor & Phace)
-		Deathray
-		Fallout - Hesitate (Spor & Toxin Remix)
-		Fizzgig
-		Go Liquid
-		Little Change
-		Pendulum - Toxic Shock (Spor Remix)
-		Spor - Wretch
+Little Dragon
+	Little Dragon
+		After The Rain
+		Constant Suprises
+		Forever
+		No Love
+		Place To Belong
+		Recommendation
+		Scribbled Paper
+		Stormy Weather
+		Test
+		Turn Left
+		Twice
+		Wink
+	Machine Dreams
+		A New
+		Blinking Pigs
+		Come Home
+		Feather
+		Fortune
+		Looking Glass
+		My Step
+		Never Never
+		Runabout
+		Thunder Love
+	Ritual Union
+		Brush The Heat
+		Crystalfilm
+		Little Man
+		Nightlight
+		Please Turn
+		Precious
+		Ritual Union
+		Seconds
+		Shuffle A Dream
+		Summertearz
+		When I Go Out
 Mercenary
+	11 Dreams
+		11 Dreams
+		11 Dreams (3-D mix)
+		11 Dreams (radio edit)
+		Falling
+		Firesoul
+		Into The Sea Of Dark Desires
+		Loneliness
+		Music Non Stop
+		Sharpen The Edges
+		Supremacy v2.0
+		Times Without Changes
+		World Hate Center
+		reDestructDead
+	2008 Architect of Lies
+		Black Hollow
+		Bloodsong
+		Death Connection
+		Embrace The Nothing
+		Execution Style
+		I Am Lies
+		Isolation (The Loneliness in December)
+		New Desire
+		Public Failure Number One
+		The Endless Fall
+		This Black and Endless Never
 	Everblack
 		A Darker Shade Of Black
 		Alliance
@@ -180,32 +214,24 @@ Mercenary
 		Symbiotic
 		Watching Me
 		World Wide Weep
-	2008 Architect of Lies
-		Black Hollow
-		Bloodsong
-		Death Connection
-		Embrace The Nothing
-		Execution Style
-		I Am Lies
-		Isolation (The Loneliness in December)
-		New Desire
-		Public Failure Number One
-		The Endless Fall
-		This Black and Endless Never
-	11 Dreams
-		11 Dreams
-		11 Dreams (3-D mix)
-		11 Dreams (radio edit)
-		Falling
-		Firesoul
-		Into The Sea Of Dark Desires
-		Loneliness
-		Music Non Stop
-		Sharpen The Edges
-		Supremacy v2.0
-		Times Without Changes
-		World Hate Center
-		reDestructDead
+Mord Fustang
+	9999 in 1
+		1984 (Original Mix)
+Noisia
+	Noisia
+		Noisia - Artist Introduction
+		Noisia - Recorded Intro
+		Noisia - Track 1
+		Noisia - Track 10
+		Noisia - Track 11
+		Noisia - Track 2
+		Noisia - Track 3
+		Noisia - Track 4
+		Noisia - Track 5
+		Noisia - Track 6
+		Noisia - Track 7
+		Noisia - Track 8
+		Noisia - Track 9
 Ratatat
 	Classics
 		Gettysburg
@@ -218,63 +244,37 @@ Ratatat
 		Tacobel Canon
 		Tropicana
 		Wildcat
-Genghis Tron
-	Genghis Tron
-		Arms (Dylan Reece Remix)
-		Warm Woods
-Archie & Fareoh
-	HJ-ENT
-		Feathers (Original Mix)
-Little Dragon
-	Machine Dreams
-		A New
-		Blinking Pigs
-		Come Home
-		Feather
-		Fortune
-		Looking Glass
-		My Step
-		Never Never
-		Runabout
-		Thunder Love
-	Little Dragon
-		After The Rain
-		Constant Suprises
-		Forever
-		No Love
-		Place To Belong
-		Recommendation
-		Scribbled Paper
-		Stormy Weather
-		Test
-		Turn Left
-		Twice
-		Wink
-	Ritual Union
-		Brush The Heat
-		Crystalfilm
-		Little Man
-		Nightlight
-		Please Turn
-		Precious
-		Ritual Union
-		Seconds
-		Shuffle A Dream
-		Summertearz
-		When I Go Out
-Be'lakor
-	Vessels
-		A Thread Dissolves
-		An Ember's Arc
-		Grasping Light
-		Luma
-		Roots to Sever
-		The Smoke of Many Fires
-		Whelm
-		Withering Strands
-Mord Fustang
-	9999 in 1
-		1984 (Original Mix)
+Sliph
+	Sliph
+		2 Player
+		A Long Time From Now
+		Atropos
+		Feeling the Spell
+		Fragile in Flight
+		From Above
+		Orions, and Triangles, and Squares
+		Repair Her
+Solgryn
+	I Wanna be the Boshy Soundtrack
+		46 - Secret Boss - Cheetahmen.mp3
+Spor
+	Spor
+		A1 Dirge (Apex, Spor, Ewun & Evol Intent)
+		B1 Resolute
+		Blue Girl
+		Breath In Scream Out
+		C1 Levitate (Spor, Ewun & Evol Intent)
+		C1 Valentine
+		Calyx & Teebee - Make Your Choice (Spor Remix)
+		D1 As Dust Falls
+		D1 Dying Of The Light (Spor & Phace)
+		Deathray
+		Fallout - Hesitate (Spor & Toxin Remix)
+		Fizzgig
+		Go Liquid
+		Little Change
+		Pendulum - Toxic Shock (Spor Remix)
+		Spor - Wretch
 Sybreed
 	Antares
 		Dynamic
